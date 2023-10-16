@@ -9,7 +9,7 @@
   gap: 20px;
 }
 
-.contact-information{
+.form-section{
   border-style: solid;
   display: flex;
   flex-direction: column;
