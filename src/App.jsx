@@ -1,6 +1,4 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import FormSection from './Components/FormSection.jsx'
 import ModularSection from './Components/ModularSection.jsx'
 import CVResult from './Components/CVResult'
