@@ -86,8 +86,8 @@ setEducationPropSets(newList);
       </div>
       <div className="cv-result">
         <CVResult firstName={firstName} lastName={lastName} email={email} phone={phone} workExperience={workExperiencePropSets} education={educationPropSets}></CVResult>
-
       </div>
+      <button className="print-button" onClick={window.print}>Print CV</button>
     </>
   )
 }
